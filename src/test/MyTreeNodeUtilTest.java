@@ -44,7 +44,7 @@ public class MyTreeNodeUtilTest {
 
     @Test
     public void run() {
-
+        // test
         treeNode = MyTreeNodeUtil.listToTree(listNode);
         System.out.println("root index: " + treeNode.nodeIndex);
         System.out.println("leftNode: " + treeNode.left);
